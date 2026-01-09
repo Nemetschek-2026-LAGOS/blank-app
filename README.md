@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+smart pmo project
 
 A simple Streamlit app template for you to modify!
 
