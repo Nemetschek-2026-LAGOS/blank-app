@@ -1,4 +1,4 @@
-smart pmo project
+SMART PMO Project - Nemetscheck 2026 
 
 A simple Streamlit app template for you to modify!
 
